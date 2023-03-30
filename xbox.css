@@ -1,0 +1,421 @@
+body{
+    margin: 0 ;
+    padding: 0 ;
+}
+.mic_logo{
+    margin-left: 50px;
+}
+.mic_logo_1{
+    width: 101px;
+}
+.xbox_logo{
+    display: flex;
+}
+.xbox{
+    width: 81px;
+    margin-left: 18px;
+}
+.header{
+    display: flex;
+    margin-top: 18px;
+    
+}
+.black_span{
+    border-left: 2px solid #000;
+    height: 24px;
+    content: " ";
+    margin-left: 23px;
+}
+.p_xbox{
+    margin-top: 1px;
+    margin-left: 20px;
+}
+.p_xbox_1{
+    font-family: 'Segoe UI';
+    background-color: white;
+    border: solid 1px white;
+}
+.p_xbox_3{
+    font-family: 'Segoe UI';
+    background-color: white;
+    border: solid 1px white;
+}
+.p_xbox_2{
+    margin-top: 1px;
+    margin-left: 20px;
+}
+.p_xbox_3:hover{
+    text-decoration: underline;
+}
+.img_star_X{
+    background-image: url("img/mid-old\ century.jpg");
+    width: 100%;
+    background-size: 100%;
+    height: 460px;
+    position: relative;
+    transition: 1s;
+    
+}
+.p_xbox_4{
+    font-family: 'Segoe UI';
+    background-color: white;
+    border: solid 1px white;
+    margin-left: 28px;
+}
+.p_xbox_4:hover{
+    text-decoration: underline;
+}
+.p_xbox_1:hover{
+    text-decoration: underline;
+}
+.xbox_search{
+    width: 20px;
+    margin-left: 6px;
+}
+.xbox_search_1{
+    width: 40px;
+    margin-top: -10px;
+    margin-left: 30px;
+}
+.sign_up{
+    margin-top: 1px;
+    margin-left: 24px;
+}
+.sign_up_1{
+    background-color: white;
+    border: solid 1px white;
+    font-family: 'Segoe UI';
+    color: white;
+}
+.sign_up_2{
+    color: black;
+    text-decoration: none;
+}
+.flex_sign{
+    width: 30px;
+    margin-top: -27px;
+    margin-left: 30px;
+}
+.img_star{
+    width: 1366px;
+}
+.btn_star{
+    background-color: yellow;
+    border: none;
+    font-family: 'Segoe UI';
+    height: 28px;
+    font-weight: 600;
+    /* position: absolute;
+    margin-top: -411px;
+    margin-left: 75px; */
+}
+.h2_lego{
+    margin-top: -100px;
+    margin-left: 75px;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 28px;
+    padding-top: 50px;
+}
+.h2_lego_1{
+    margin-top: -48px;
+}
+.h2_lego_3{
+    margin-top: -20px;
+    font-size: 30px;
+}
+.h2_lego_4{
+    margin-top: -20px;
+    font-size: 30px ;
+}
+.btn{
+    background-color: #9bf00b;
+    color: #054b16;
+    font-family: 'Segoe UI';
+    font-weight: 900;
+    padding-top: 5px; 
+    padding-bottom: 5px;
+    border: none;
+}
+.btn:hover{
+    text-decoration: underline;
+    transition: 0,3s;
+}
+.lego_star{
+    padding-top: 80px;
+    margin: 0 0 31px 0px;
+}
+.g1{
+    width: 33px;
+    height: 18px;
+    background-color: #1f2421;
+    position: absolute;
+    left: 0px;
+    top: 226px;
+    color: white;
+    text-align: center;
+    border-radius: 17px;
+    display: none;
+}
+.img_star_X:hover .g1{ 
+    display: block;
+}
+.img_star_X:hover .g2{
+    display: block;
+}
+.g2{
+    width: 33px;
+    height: 18px;
+    background-color: #1f2421;
+    position: absolute;
+    right: 0px;
+    top: 226px;
+    color: white;
+    text-align: center;
+    border-radius: 17px;
+    display: none;
+}
+.img_mid-old_age{
+    background-image: url("img/star_wars.jpg");
+    width: 100px;
+    height: 100px;
+}
+.img_fall_guys{
+    background-image: url("img/fall_guys.jpg");
+    width: 100px;
+    height: 100px;
+}
+.circle_1{
+    border-radius: 50%;
+    border: solid 1px white;
+    height: 12px;
+    width: 12px;
+    background-color: #000;
+    
+}
+.flex_circle{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    margin-top: -45px;
+    border: solid 1px black;
+    padding-top: 9px;
+    padding-bottom: 8px;
+    width: 70px;
+}
+.circle_1:hover{
+    background-color: grey;
+}
+.circle_2:hover{
+    background-color: grey;
+}
+.circle_3:hover{
+    background-color: grey;
+}
+.flex_div{
+    display: flex;
+    justify-content: center;
+}
+.color{
+    background-color: white;
+}
+.green_books{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 30px;
+    
+}
+.green_books img{
+    width: 80px;
+}
+.green_game{
+    color: green;
+    font-family: 'Segoe UI';
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: -5px;
+}
+.hog_leg{
+    position: relative;
+    display: flex;
+}
+.hog_leg_1{
+    height: 750px;
+}
+.but_hog{
+    position: absolute;
+    left: 25px;
+    bottom: 61%;
+    background-color: #ffd800;
+    font-family: 'Segoe UI';
+    border: solid 1px ;
+    
+}
+.hog_leg_2{
+    position: absolute;
+    font-size: 46px;
+    color: white;
+    font-family: 'Segoe UI';
+    font-weight: 700;
+    left: 25px;
+    top: 430px;
+}
+.hog_leg_3{
+    position: absolute;
+    font-size: 19px;
+    font-family: 'Segoe UI';
+    left: 25px;
+    top: 534px;
+    color: white;
+    font-weight: 700;
+}
+.hog_leg_4{
+    position: absolute;
+    font-size: 13px;
+    font-family: 'Segoe UI';
+    left: 25px;
+    top: 650px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-family: 'Segoe UI';
+    font-weight: 700;
+}
+.hog_leg_4:hover{
+    color: #9bf00b;
+}
+.hog_leg_5{
+    color: white;
+    text-decoration: none;
+}
+.hog_leg_5:hover{
+    color: #9bf00b;
+}
+.square_1{
+    background-color: #107c10;
+    margin-left: 5px;
+    color: white;
+    width: 280px;
+    height: 300px;
+    padding: 30px;
+    font-size: 20px;
+    font-family: 'Segoe UI';
+    font-weight: 700;
+    padding-top: 60px;
+}
+.p_pad{
+    padding-top: 12px;
+    font-size: 17px;
+    font-weight: 100;
+    margin-left: 6px;
+}
+.but_pad{
+    margin-top: 15px;
+    background-color: #107c10;
+    border: solid 1px #107c10;
+}
+.but_pad_1{
+    background-color: #107c10;
+    text-decoration: none;
+    font-family: 'Segoe UI';
+    font-weight: 800;
+    color: white;
+}
+.game_pass{
+    width: 326px;
+    height: 390px;
+    transition: 1s;
+   
+    
+}
+
+.game_pass_1:hover img{
+    /* background-size: 80%; */
+    object-fit: none;
+    transition: 1s;
+}   
+.game_pass_1{
+    /* overflow: hidden; */
+    width: 320px;
+    height: 390px;
+    transition: 1s;
+    display: flex;
+}
+.src_contr{
+    width: 677px;
+    height: 749px;
+    position: relative;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.flex_game_2{
+    display: flex;
+}
+.p_controll{
+    font-size: 46px;
+    font-family: 'Segoe UI';
+    font-weight: 700;
+    color: #000;
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 50px;
+}
+.p_cont_2{
+    position: absolute;
+    font-family: 'Segoe UI';
+    margin-top: -200px; 
+    margin-left: 50px;  
+    font-size: 20px;
+}
+.but_contr{
+    position: absolute;
+    font-family: 'Segoe UI';
+    font-weight: 800;
+    bottom: 51px;
+    left: 721px;
+    background-color: white;
+    border: solid 1px white;
+}
+.flex_game_pass{
+    display: flex;
+}
+.footer{
+    background-color: #dbdbdbf5;
+    height: 277px;
+    margin-top: 5px;
+    display: flex;
+}
+.pad_foot{
+    list-style-type: none;
+    padding: 60px;
+    padding-top: 42px;
+}
+.pad_1_foot{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+}
+.pad_2_foot{
+    font-family: 'Segoe UI';
+    font-weight: 100;
+    font-size: 11px;
+    padding-top: 15px;
+    width: 130px;
+}
+.pad_2_foot a{
+    text-decoration: none;
+    color: black;
+}
+ .pad_2_foot:hover a{
+    text-decoration: underline;
+    transition: 0,3s;
+}
+.final_1_footer{
+    height: 27px;
+}
+.final_footer{
+    
+}
